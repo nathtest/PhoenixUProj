@@ -167,3 +167,8 @@ Binaries/Win64/phoenix-Win64-Shipping.target
 
 # Include master materials and dependencies
 
+.vs/phoenix/v17/HierarchyCache.v1.txt
+cooking/WindowsNoEditor/Engine/Content/SlateDebug/Fonts/LastResort.tps
+cooking/WindowsNoEditor/Manifest_DebugFiles_Win64.txt
+cooking/WindowsNoEditor/Manifest_NonUFSFiles_Win64.txt
+Content/Utils/BluePrintTextButton.uasset

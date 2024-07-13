@@ -7,7 +7,7 @@ USTRUCT(BlueprintType)
 struct AVAANIMATION_API FTickAssetPlayerProxy_WeightedNotify {
     GENERATED_BODY()
 public:
-    UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
+    //UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
     TArray<FAnimNotifyEventReference> NotifyReferences;
     
     UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))

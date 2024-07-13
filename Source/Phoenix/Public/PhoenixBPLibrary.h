@@ -176,7 +176,7 @@ public:
     UFUNCTION(BlueprintCallable)
     static FVector GetRuntimeVectorCurveValue(const FRuntimeCurveVector& Curve, float Time);
     
-    UFUNCTION(BlueprintCallable)
+    //UFUNCTION(BlueprintCallable)
     static FLinearColor GetRuntimeLinearColorCurveValue(const FRuntimeCurveLinearColor& Curve, float Time);
     
     UFUNCTION(BlueprintCallable)

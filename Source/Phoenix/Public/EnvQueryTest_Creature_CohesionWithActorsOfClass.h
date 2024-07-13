@@ -8,7 +8,7 @@ UCLASS(Blueprintable)
 class UEnvQueryTest_Creature_CohesionWithActorsOfClass : public UEnvQueryTest {
     GENERATED_BODY()
 public:
-    UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
+    //UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
     FAIDataProviderFloatValue DetectionRange;
     
     UEnvQueryTest_Creature_CohesionWithActorsOfClass();

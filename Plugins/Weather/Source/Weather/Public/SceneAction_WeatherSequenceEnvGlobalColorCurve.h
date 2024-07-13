@@ -8,7 +8,7 @@ UCLASS(Blueprintable, CollapseCategories, EditInlineNew)
 class WEATHER_API USceneAction_WeatherSequenceEnvGlobalColorCurve : public USceneAction_WeatherSequenceEnvGlobalColor {
     GENERATED_BODY()
 public:
-    UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
+    //UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
     FRuntimeCurveLinearColor Value;
     
     UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))

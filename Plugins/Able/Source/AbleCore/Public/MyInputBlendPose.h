@@ -7,7 +7,7 @@ USTRUCT(BlueprintType)
 struct FMyInputBlendPose {
     GENERATED_BODY()
 public:
-    UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
+    //UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
     TArray<FBranchFilter> BranchFilters;
     
     ABLECORE_API FMyInputBlendPose();

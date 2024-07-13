@@ -8,7 +8,7 @@ UCLASS(Blueprintable, CollapseCategories, EditInlineNew)
 class SCENERIG_API UColor_Curve : public UColorProvider {
     GENERATED_BODY()
 public:
-    UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
+    //UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
     FRuntimeCurveLinearColor Curve;
     
     UColor_Curve();

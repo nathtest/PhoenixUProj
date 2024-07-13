@@ -8,7 +8,7 @@ UCLASS(Blueprintable, CollapseCategories, EditInlineNew)
 class UBoneMask_BranchFilter : public UBoneMaskBase {
     GENERATED_BODY()
 public:
-    UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
+    //UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
     TArray<FBranchFilter> BranchFilters;
     
     UBoneMask_BranchFilter();

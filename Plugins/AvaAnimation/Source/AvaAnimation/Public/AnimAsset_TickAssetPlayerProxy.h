@@ -21,10 +21,18 @@ public:
     
     UAnimAsset_TickAssetPlayerProxy();
 
-    /*//Begin UObject Interface
+    //Begin UObject Interface
     virtual void PostLoad() override;
     virtual void Serialize(FArchive& Ar) override;
-    //End UObject Interface*/
-    
+    //End UObject Interface
+
+
+    virtual void SetPreviewMesh(USkeletalMesh* PreviewMesh, bool bMarkAsDirty = true) override;
+    virtual USkeletalMesh* GetPreviewMesh(bool bFindIfNotSet = false) override;
+    virtual USkeletalMesh* GetPreviewMesh() const override;
+    virtual void RemapTracksToNewSkeleton(USkeleton* NewSkeleton, bool bConvertSpaces);
+
+protected:
+    virtual void RefreshParentAssetData();
 };
 

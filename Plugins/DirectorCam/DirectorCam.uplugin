@@ -3,22 +3,15 @@
 	"Version": 1,
 	"VersionName": "1.0",
 	"FriendlyName": "DirectorCam",
-	"Description": "Director Cam System",
-	"Category": "Misc",
-	"CreatedBy": "Terence Burns (Gobo)",
+	"Description": "DirectorCam dummy",
+	"Category": "Other",
+	"CreatedBy": "Nathdev",
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
-	"EnabledByDefault": true,
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
-	"Installed": false,
-	"Plugins": [
-		{
-			"Name": "CameraStack",
-			"Enabled": true
-		}
-	]
+	"Installed": false
 }

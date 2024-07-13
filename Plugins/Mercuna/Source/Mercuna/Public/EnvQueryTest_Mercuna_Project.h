@@ -8,7 +8,7 @@ UCLASS(Blueprintable)
 class MERCUNA_API UEnvQueryTest_Mercuna_Project : public UMercunaQueryTest {
     GENERATED_BODY()
 public:
-    UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
+    //UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
     FAIDataProviderFloatValue MaxSearchRadius;
     
     UEnvQueryTest_Mercuna_Project();

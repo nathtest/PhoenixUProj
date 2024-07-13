@@ -70,7 +70,7 @@ private:
     URepairInfo* RepairInfo;
     
 public:
-    UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
+    //UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
     FObservedComponent ObservedComponent;
     
     URepairComponent();

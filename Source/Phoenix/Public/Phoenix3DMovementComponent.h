@@ -33,7 +33,7 @@ public:
     float PushForcePointZOffsetFactor;
     
 protected:
-    UPROPERTY(BlueprintReadWrite, EditAnywhere, Transient, meta=(AllowPrivateAccess=true))
+    //UPROPERTY(BlueprintReadWrite, EditAnywhere, Transient, meta=(AllowPrivateAccess=true))
     FRootMotionMovementParams RootMotionParams;
     
 public:

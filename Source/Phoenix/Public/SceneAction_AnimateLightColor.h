@@ -10,7 +10,7 @@ UCLASS(Blueprintable, CollapseCategories, EditInlineNew)
 class USceneAction_AnimateLightColor : public USceneAction_AnimateLightColorIntensity {
     GENERATED_BODY()
 public:
-    UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
+    //UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
     FRuntimeCurveLinearColor Color;
     
     UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))

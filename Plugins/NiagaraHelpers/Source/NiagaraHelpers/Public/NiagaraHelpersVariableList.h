@@ -7,7 +7,7 @@ USTRUCT(BlueprintType)
 struct FNiagaraHelpersVariableList {
     GENERATED_BODY()
 public:
-    UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
+    //UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
     TArray<FNiagaraVariable> Variables;
     
     NIAGARAHELPERS_API FNiagaraHelpersVariableList();

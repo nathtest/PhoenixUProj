@@ -8,7 +8,7 @@ UCLASS(Blueprintable)
 class CONTROLMAPPER_API UCustomInputAxisDelegateBinding : public UCustomInputDelegateBinding {
     GENERATED_BODY()
 public:
-    UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
+    //UPROPERTY(BlueprintReadWrite, EditAnywhere, meta=(AllowPrivateAccess=true))
     TArray<FBlueprintInputAxisDelegateBinding> InputAxisDelegateBindings;
     
     UCustomInputAxisDelegateBinding();
