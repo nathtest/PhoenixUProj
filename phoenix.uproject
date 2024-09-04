@@ -118,6 +118,10 @@
 			"Enabled": true
 		},
 		{
+			"Name": "DirectorCam",
+			"Enabled": true
+		},
+		{
 			"Name": "Cognition",
 			"Enabled": true
 		},

@@ -1,0 +1,6 @@
+#include "CameraStackDirectorCamFocusDistanceLockOnTargetGetter.h"
+
+UCameraStackDirectorCamFocusDistanceLockOnTargetGetter::UCameraStackDirectorCamFocusDistanceLockOnTargetGetter() {
+}
+
+

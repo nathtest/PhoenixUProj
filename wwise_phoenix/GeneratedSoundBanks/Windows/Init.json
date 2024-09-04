@@ -1,0 +1,26 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "C:\\Users\\nath\\Documents\\Unreal Projects\\PhoenixUProj\\wwise_phoenix\\",
+   "SourceFilesRoot": "C:\\Users\\nath\\Documents\\Unreal Projects\\PhoenixUProj\\wwise_phoenix\\.cache\\Windows\\",
+   "SoundBanksRoot": "C:\\Users\\nath\\Documents\\Unreal Projects\\PhoenixUProj\\wwise_phoenix\\GeneratedSoundBanks\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\Users\\nath\\Documents\\Unreal Projects\\PhoenixUProj\\wwise_phoenix\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
+    "Language": "SFX",
+    "Hash": "1958929096",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   }
+  ]
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "C:\\Users\\nath\\Documents\\Unreal Projects\\PhoenixUProj\\wwise_phoenix\\",
+   "SourceFilesRoot": "C:\\Users\\nath\\Documents\\Unreal Projects\\PhoenixUProj\\wwise_phoenix\\.cache\\Windows\\",
+   "SoundBanksRoot": "C:\\Users\\nath\\Documents\\Unreal Projects\\PhoenixUProj\\Content\\WwiseAudio\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\Users\\nath\\Documents\\Unreal Projects\\PhoenixUProj\\wwise_phoenix\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1831431028",
+    "GUID": "{0C074EAF-1717-43B1-BEB6-A24B9BAADDF3}",
+    "Language": "SFX",
+    "Hash": "2820458335",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\TestSoundBank",
+    "ShortName": "TestSoundBank",
+    "Path": "TestSoundBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "1097980931",
+      "Name": "TestEvent",
+      "ObjectPath": "\\Events\\Default Work Unit\\TestEvent",
+      "GUID": "{DA8036DB-EAC9-4BC8-8E02-437C3B625136}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.816236",
+      "DurationMax": "0.816236",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "824145631",
+        "Language": "SFX",
+        "ShortName": "obi-wan-hello-there.wav",
+        "Path": "SFX\\obi-wan-hello-there_10C4C929.wem"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

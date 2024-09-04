@@ -1,18 +1,18 @@
 {
-	"BuildId": "9bb61ec9-add2-4706-b5f3-993be88cd783",
+	"BuildId": "04a52c4a-006b-4e9f-bcbb-7c60157c8851",
 	"Modules": 
 	{
-		"AIPathScheduler": "UE4Editor-AIPathScheduler.dll",
-		"AvaAnimationShim": "UE4Editor-AvaAnimationShim.dll",
-		"CreatureBehavior": "UE4Editor-CreatureBehavior.dll",
-		"DbAssetMapper": "UE4Editor-DbAssetMapper.dll",
-		"DbGateway": "UE4Editor-DbGateway.dll",
-		"GameScheduler": "UE4Editor-GameScheduler.dll",
-		"OnlineStore": "UE4Editor-OnlineStore.dll",
-		"PersistentData": "UE4Editor-PersistentData.dll",
-		"Phoenix": "UE4Editor-Phoenix.dll",
-		"PhoenixSignificanceManager": "UE4Editor-PhoenixSignificanceManager.dll",
-		"SceneRigShim": "UE4Editor-SceneRigShim.dll",
-		"SocialDisplay": "UE4Editor-SocialDisplay.dll"
+		"AIPathScheduler": "UE4Editor-AIPathScheduler-0001.dll",
+		"AvaAnimationShim": "UE4Editor-AvaAnimationShim-0001.dll",
+		"CreatureBehavior": "UE4Editor-CreatureBehavior-0001.dll",
+		"DbAssetMapper": "UE4Editor-DbAssetMapper-0001.dll",
+		"DbGateway": "UE4Editor-DbGateway-0001.dll",
+		"GameScheduler": "UE4Editor-GameScheduler-0001.dll",
+		"OnlineStore": "UE4Editor-OnlineStore-0001.dll",
+		"PersistentData": "UE4Editor-PersistentData-0001.dll",
+		"Phoenix": "UE4Editor-Phoenix-0001.dll",
+		"PhoenixSignificanceManager": "UE4Editor-PhoenixSignificanceManager-0001.dll",
+		"SceneRigShim": "UE4Editor-SceneRigShim-0001.dll",
+		"SocialDisplay": "UE4Editor-SocialDisplay-0001.dll"
 	}
 }

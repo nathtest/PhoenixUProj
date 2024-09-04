@@ -46,6 +46,7 @@ public class Phoenix : ModuleRules {
             "DebugPanel",
             "DesignerHelper",
             "DeveloperSettings",
+            //"DirectorCam",
             "EditorCustomizationHelper",
             "Engine",
             "EnvironmentalGlobals",
