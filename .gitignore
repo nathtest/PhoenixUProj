@@ -131,6 +131,7 @@
 !/Content/Mods/TestMod/**
 !/Content/Utils/**
 !/Content/MapGen/**
+!/Content/Wwise/**
 
 !USMAP/*
 
