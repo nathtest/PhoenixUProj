@@ -135,6 +135,10 @@
 !/Content/WwiseAudio/**
 !USMAP/*
 !/wwise_phoenix/**
+!/Plugins/Wwise/Content/**
+!/Plugins/Wwise/Resources/**
+!/Plugins/Wwise/ThirdParty/**
+
 # Ignore intermediate folders
 Intermediate/
 obj/
