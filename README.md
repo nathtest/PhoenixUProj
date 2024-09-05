@@ -1,10 +1,10 @@
-# Phoenix Projet
+# <ins>Phoenix Projet</ins>
 
 The Phoenix Project forked from Narkon.
 
 This version is only compatible with this Engine version [https://github.com/nathtest/UnrealEngine/tree/4.27-chaos-HogwartsLegacy](https://github.com/nathtest/UnrealEngine/tree/4.27-chaos-HogwartsLegacy)
 
-# 4.27-chaos-Hogwartslegacy engine
+## 4.27-chaos-Hogwartslegacy engine Repo
 
 Manual fork of Narkon Unreal Engine updated with :
 - Wwise plugin source and compiled dll
@@ -14,7 +14,7 @@ Manual fork of Narkon Unreal Engine updated with :
 It's almost in the same state as Narkon (only the dummy feature is not compatible and therefore excluded in this build).
 
 
-# How to install
+# <ins>How to install</ins>
 
 ## Install 4.27-chaos-HogwartsLegacy Unreal Engine Version
 
