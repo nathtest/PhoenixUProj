@@ -132,9 +132,9 @@
 !/Content/Utils/**
 !/Content/MapGen/**
 !/Content/Wwise/**
-
+!/Content/WwiseAudio/**
 !USMAP/*
-
+!/wwise_phoenix/**
 # Ignore intermediate folders
 Intermediate/
 obj/

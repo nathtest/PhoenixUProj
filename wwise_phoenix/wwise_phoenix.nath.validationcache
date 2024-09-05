@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="103">
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\wwise_phoenix.wproj" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\wwise_phoenix.nath.wsettings" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Virtual Acoustics\Default Work Unit.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Triggers\Default Work Unit.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Switches\Default Work Unit.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\States\Default Work Unit.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\SoundBanks\Default Work Unit.wwu" DateLow="1725480431" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Queries\Factory Queries.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Queries\Default Work Unit.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Presets\Factory Spatial Audio.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Presets\Factory Reflect.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Presets\Default Work Unit.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Modulators\Default Work Unit.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Mixing Sessions\Default Work Unit.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Metadata\Default Work Unit.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Game Parameters\Factory Motion.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Game Parameters\Default Work Unit.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Events\Default Work Unit.wwu" DateLow="1725480391" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Effects\Factory Reflect.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Effects\Factory McDSP Effects.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Effects\Factory Mastering Suite.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Effects\Factory iZotope Filters.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Effects\Factory iZotope Dynamics.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Effects\Factory iZotope Delay.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Effects\Factory iZotope Box Modeler.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Effects\Factory Effects.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Effects\Factory Auro Headphone.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Effects\Default Work Unit.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Conversion Settings\Default Work Unit.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Control Surface Sessions\Default Work Unit.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Audio Devices\Default Work Unit.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Attenuations\Default Work Unit.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1725480315" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\nath\Documents\Unreal Projects\PhoenixUProj\wwise_phoenix\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1725480315" DateHigh="0"/>
+</ValidationCache>

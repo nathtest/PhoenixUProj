@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{759102BB-8E31-41BB-8AE4-9D52FD26FB81}" SchemaVersion="103">
+	<DynamicDialogue>
+		<WorkUnit Name="Default Work Unit" ID="{759102BB-8E31-41BB-8AE4-9D52FD26FB81}" PersistMode="Standalone">
+			<ChildrenList>
+				<DialogueEvent Name="DialogTest" ID="{3EFDC2E2-6F7C-4353-AD7C-0B3A73B6CDCD}">
+					<EntryList>
+						<Entry>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SwitchContainerTest" ID="{BB2C6695-34DF-450B-8C6D-0C2B3A5FA415}" WorkUnitID="{4D0BC9AD-E2E2-49ED-896A-CE03AAE1509F}" Platform="Linked"/>
+							</AudioNodeInfo>
+						</Entry>
+					</EntryList>
+				</DialogueEvent>
+			</ChildrenList>
+		</WorkUnit>
+	</DynamicDialogue>
+</WwiseDocument>
