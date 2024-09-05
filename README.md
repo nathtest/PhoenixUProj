@@ -19,8 +19,8 @@ It's almost in the same state as Narkon (only the dummy feature is not compatibl
 ## Install 4.27-chaos-HogwartsLegacy Unreal Engine Version
 
 - Git clone or fork 4.27-chaos-HogwartsLegacy [https://github.com/nathtest/UnrealEngine/tree/4.27-chaos-HogwartsLegacy](https://github.com/nathtest/UnrealEngine/tree/4.27-chaos-HogwartsLegacy)
-- Follow the readme for Windows on this repo and compile the engine with Visual studio (In step one when it's says "fork and clone our repository" you obliviously use the 4.27-chaos-HogwartsLegacy Engine repo)
-- Yep it's just the standard Unreal Engine compile instructions no magic to it (just the first compile is very long ~5 hours) 
+- - Follow the readme for "Windows" and compile the engine with Visual studio (In step one when it's says "fork and clone our repository" you obliviously use the 4.27-chaos-HogwartsLegacy Engine repo)
+- - Yep it's just the standard Unreal Engine compile instructions no magic to it (just the first compile is very long ~5 hours) 
 
 My tools version : 
 - Visual Studio 2022 14.34.31942 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933) 
